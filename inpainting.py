@@ -1,3 +1,19 @@
+"""
+inpainting.py
+
+Inpainting demo
+
+Author: Anelia Gaydardzhieva (https://github.com/Anelia1)
+(c) 2025, MIT License 
+
+A straightforward image inpainting tool built on OpenCV. 
+This module defines an ImageInpaintingTool class that loads an image, 
+supports both Telea and Navier-Stokes (NS) inpainting methods, 
+and provides an interactive OpenCV session for inpainting by clicking on the image. 
+It serves as a practical example of how to handle user input, 
+apply inpainting algorithms, and display updated results in real-time.
+"""
+
 import cv2
 import os
 import numpy as np
