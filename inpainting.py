@@ -3,7 +3,7 @@ inpainting.py
 
 Inpainting demo
 
-Author: Anelia Gaydardzhieva (https://github.com/Anelia1)
+Author: Anelia Gaydardzhieva (https://github.com/anphiriel)
 (c) 2025, MIT License 
 
 A straightforward image inpainting tool built on OpenCV. 
