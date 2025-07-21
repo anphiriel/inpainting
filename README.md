@@ -87,7 +87,7 @@ def apply_inpainting(self, target_coords: tuple, radius: int = 10, method: str =
 
 ## Credits & License
 
-Author: Anelia Gaydardzhieva (https://github.com/Anelia1)
+Author: Anelia Gaydardzhieva (https://github.com/anphiriel)
 
 (c) 2025, MIT License
 
